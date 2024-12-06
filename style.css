@@ -1,0 +1,85 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+html , body{
+    height: 100%;
+    width: 100%;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.container{
+    border: 2px solid black;
+    width: 60vh;
+    padding: 2vh 0;
+    border-radius: 5px;
+}
+
+.button{
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    font-weight: 900;
+    font-size: 13px;
+}
+
+.btn1{
+    width: 142px;
+}
+
+.btn2{
+    background-color: #6a994e;
+    color: #fff;
+}
+
+.row{
+    margin: 12px 0;
+}
+
+.row input{
+    width: 291px;
+    height: 50px;
+    font-size: 25px;
+    margin: 0;
+    padding: 6px 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.button1{
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    font-weight: 900;
+    font-size: 13px;
+}
+
+.button1 .fa-moon{
+    font-size: 15px;
+    color: #6a994e;
+}
+
+
+/* After Toggle */
+
+.change-background{
+    color: #f5f5f5;
+    background-color: #000;
+}
+
+.btns2{
+    background-color: #e36414;
+    color: #000;
+}
+
+.button1 .fa-sun{
+    font-size: 15px;
+    color: #e36414;
+}

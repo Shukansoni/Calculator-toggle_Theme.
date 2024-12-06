@@ -1,0 +1,29 @@
+.text-center{
+    text-align: center;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.item-center{
+    align-items: center;
+}
+
+.btn3{
+    color: #6a994e;
+}
+
+/* After Toggle */
+
+.btns3{
+    color: #e36414;
+}
